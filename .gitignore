@@ -1,3 +1,4 @@
+node_modules/  echo .env  echo *.log 
 # Secrets / config — never commit real env files
 .env
 .env.*
